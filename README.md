@@ -1,2 +1,2 @@
 # Chat
-Chat is a (you guessed it) chat program I created.  I and handling the bug tracking in GitHub.
+Chat is a (you guessed it) chat program I created.  I am handling the bug tracking in GitHub.
